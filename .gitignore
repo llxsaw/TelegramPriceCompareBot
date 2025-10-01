@@ -1,0 +1,32 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Database
+crypto_bot.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# PyCharm / VSCode / IDE
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
